@@ -1,0 +1,10 @@
+JumpWindow < MainWindow
+  id: jumpWindow
+  size: 300 300
+  @onEscape: self:destroy()
+
+  Button
+    id: jumpAction
+    !text: tr('Jump!')
+    width: 45
+    @onClick: modules.game_jump.jump(self)
