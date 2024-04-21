@@ -9,5 +9,6 @@ Within the "Questions" directory, you will discover solutions to each presented 
 - OTClient (edubart/otclient commit e6861d7)
 - XAMPP (8.0.30 / PHP 8.0.30)
 - Znote AAC (2.0)
+- OTClient (mehah/otclient 3.1)
 
 All programs are configured to run in a local environment.
