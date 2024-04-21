@@ -16,13 +16,19 @@ All programs are configured to run in a local environment.
 ## Solutions
 
 ### Q1-Q4
-See the PR [(Q1-Q4): Answer the code questions #1](https://github.com/sebapique/TechnicalTrial/pull/1) to see the solution. 
-The solution code is below the comment "Solution:" each Qustion subfolder (Q1~Q4). There are extra comments to better understanding of the solution.
+See the PR [(Q1-Q4): Answer the code questions #1](https://github.com/sebapique/TechnicalTrial/pull/1). 
+
+The solution code is below the comment "Solution:" each Qustion subfolder (Q1~Q4). 
+There are extra comments to better understanding of the solution.
 
 ### Q5
-See the PR [(Q5): Add Q5 code solution and demo #2](https://github.com/sebapique/TechnicalTrial/pull/2) to see the implementation.
-For this solution a new spell was created using the Eternal Winter as reference. I had to use the mehah fork of the OTClient because the CONST_ME_ICETORNADO in the edubart client wasn't functioning as expected.
+See the PR [(Q5): Add Q5 code solution and demo #2](https://github.com/sebapique/TechnicalTrial/pull/2) for this implementation.
+
+For this solution a new spell was created using the Eternal Winter as reference.
 There are extra comments to better understanding of the solution.
+
+I had to use the mehah fork of the OTClient because the CONST_ME_ICETORNADO in the edubart client wasn't functioning as expected.
+
 There is a demo of the solution in the Questions/Q5 folder.
 
 ### Q6
@@ -30,7 +36,9 @@ There is a demo of the solution in the Questions/Q5 folder.
 Q6 was not made.
 
 ### Q7
-See the PR [(Q7): Add Q7 solution and demo #3](https://github.com/sebapique/TechnicalTrial/pull/3) to see the implementation. 
+See the PR [(Q7): Add Q7 solution and demo #3](https://github.com/sebapique/TechnicalTrial/pull/3) for this implementation. 
+
 For this soltion used the Quest Log window as reference.
 There are extra comments to better understanding of the solution.
+
 There is a demo of the solution in the Questions/Q7 folder.
