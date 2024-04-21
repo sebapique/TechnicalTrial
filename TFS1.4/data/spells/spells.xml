@@ -69,6 +69,10 @@
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
+		<instant group="attack" spellid="170" name="Winter twitster bomb" words="frigo" level="1" mana="1" premium="0" casterTargetOrDirection="0" cooldown="2000" groupcooldown="2000" needlearn="0" script="attack/winter_twister_bomb.lua">
+		<vocation name="Druid" />
+		<vocation name="Elder Druid" />
+	</instant>
 	<instant group="attack" spellid="111" name="Ethereal Spear" words="exori con" level="23" mana="25" premium="1" range="7" needtarget="1" cooldown="2000" groupcooldown="2000" blockwalls="1" needlearn="0" script="attack/ethereal_spear.lua">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
