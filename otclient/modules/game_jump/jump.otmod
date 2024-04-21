@@ -1,0 +1,9 @@
+Module
+  name: game_jump
+  description: Funny jump button
+  author: pique
+  website: https://github.com/sebapique
+  sandboxed: true
+  scripts: [ jump ]
+  @onLoad: init()
+  @onUnload: terminate()
